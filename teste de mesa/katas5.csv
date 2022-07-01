@@ -1,4 +1,4 @@
-i;i >= -25;console.log
+i;i>=-25;console.log
 -25;true;-25
 -25;true;-23
 -25;true;-21
