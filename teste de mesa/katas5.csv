@@ -1,0 +1,6 @@
+i;i >= -25;console.log
+-25;true;-25
+-25;true;-23
+-25;true;-21
+-25;true;-19
+-25;true;-17
